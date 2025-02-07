@@ -110,8 +110,6 @@ This project is licensed under the **MIT License**.
 ## 🙌 Contributing
 Feel free to **fork** this repo, submit PRs, or raise issues for improvements!
 
-## 💌 Contact
-For any questions, reach out via **your-email@example.com** or open an issue.
 
 ---
 🌟 **If you find this project useful, please consider giving it a star!** 🌟
