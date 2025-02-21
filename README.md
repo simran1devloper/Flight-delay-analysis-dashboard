@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project is an AI-powered **Flight Delay Prediction System** that utilizes **XGBoost, LSTM, and Random Forest** models to predict flight delays with **85% accuracy**. The system integrates real-time weather and air traffic data via APIs and processes large datasets using **Apache Spark**.
+![Project Power BI Dashboard Overview](https://github.com/simran1devloper/Flight-delay-analysis-dashboard/blob/main/Screenshot%202025-02-21%20092400.png)
 
 ## 🚀 Features
 - **Machine Learning Models**: XGBoost, LSTM, and Random Forest for prediction.
